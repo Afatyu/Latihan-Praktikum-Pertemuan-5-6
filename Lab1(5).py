@@ -1,0 +1,23 @@
+print("Masukan Nama Lengkap : ")
+Namalengkap=input()
+print("Masukan Nama Panggilan : ")
+Namapanggilan=input()
+print("Masukan NPM : ")
+npm=int(input())
+print("Tempat Lahir  : ")
+Tempatlahir=input()
+print("Tanggal Lahir : ")
+Tanggallahir=int(input())
+print("Bulan Kelahiran : ")
+Bulankelahiran=input()
+print("Tahun Kelahiran : ")
+Tahunkelahiran=int(input())
+print("Masukan Nomor Telepon : ")
+Nomortelepon=int(input())
+print("Masukan Alamat Rumahmu : ")
+Alamatrumahmu=input()
+
+Tanggallahir=2020-Tahunkelahiran
+
+print("\n Assalamu'alaikum. ")
+print(f"Let me introduce my self. My name is {Namalengkap}, but you can call me {Namapanggilan}. My NPM {npm}. I was born in {Tempatlahir} and Iam {Tanggallahir} years old. I am very glad if you want to invite my house in {Alamatrumahmu}. So don't forget to call me before with the number {Nomortelepon}. \n\n Thank You ")
