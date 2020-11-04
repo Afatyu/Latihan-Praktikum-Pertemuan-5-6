@@ -16,6 +16,7 @@ Pada syntax / source code string format 2 akan menampilkan output berupa 2 outpu
 untuk di praktikum Lab - 2 ini, kita harus memasukan output variable A dan B agar syntax terbaca contoh 
 
 ## output
+'''python
 print("variable a=",a)
 
 print("variable b=",b)
