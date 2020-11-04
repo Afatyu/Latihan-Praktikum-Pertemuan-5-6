@@ -15,8 +15,8 @@ Pada syntax / source code string format 2 akan menampilkan output berupa 2 outpu
 
 untuk di praktikum Lab - 2 ini, kita harus memasukan output variable A dan B agar syntax terbaca contoh 
 
-'''python
+```python
 print("variable a=",a)
 print("variable b=",b)
-print("hasil penggabungan {1}&{0}=%d".format(5,10) %(5+10))''' 
+print("hasil penggabungan {1}&{0}=%d".format(5,10) %(5+10))``` 
 ___
